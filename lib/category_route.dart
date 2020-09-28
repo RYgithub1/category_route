@@ -71,7 +71,7 @@ class CategoryRoute extends StatelessWidget {
     final categories = <Category>[];
     for (var i = 0; i < _categoryNames.length; i++) {
       categories.add(
-        Category(  // ここ：category.dart呼び込み(引数受け渡し)
+        Category(  // ここ：category.dart呼び込み(引数受け渡し)。for文で配列要素全て繰り返し呼ぶ
           name: _categoryNames[i],
           color: _baseColors[i],
           iconLocation: Icons.cake,

@@ -1,5 +1,7 @@
 # Create the Category Screen!
 
+<img width="467" alt="category_route" src="https://user-images.githubusercontent.com/62828568/94424476-3e47a580-01c5-11eb-87e1-8e5bd6c9f873.png">
+
 ## Goals
  - Create the home screen of the app.
  - Create a ListView for the Categories.
